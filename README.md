@@ -112,6 +112,7 @@ A list of resources to learn how to access and analyze Ethereum blockchain data.
 - [How to Export the Entire Ethereum Blockchain to CSV in 2 hours for $10](https://medium.com/@medvedev1088/how-to-export-the-entire-ethereum-blockchain-to-csv-in-2-hours-for-10-69fef511e9a2)
 - [Ethereum in BigQuery:  how we built this dataset](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-how-we-built-dataset), [part2](https://medium.com/@medvedev1088/ethereum-in-bigquery-how-we-built-it-part-2-b4426d0ce243)
 - [Building an Ethereum account scraper with QuickBlocks](https://medium.com/@tjayrush/building-an-ethereum-account-scraper-with-quickblocks-7a2ddff3dc5c)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ***
 
